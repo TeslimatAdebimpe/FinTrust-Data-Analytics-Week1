@@ -1,1 +1,37 @@
+# Data Profiling Summary
 
+## Customer Dataset
+
+Profiling status: Pending
+
+The customer dataset will be assessed for:
+
+- Record count
+- Column count
+- Field names
+- Data types
+- Categorical variables
+- Numerical variables
+- Date/time variables
+- Missing values
+- Obvious data-quality issues
+
+## Transaction Dataset
+
+Profiling status: Pending
+
+The transaction dataset will be assessed for:
+
+- Record count
+- Column count
+- Field names
+- Data types
+- Categorical variables
+- Numerical variables
+- Date/time variables
+- Missing values
+- Obvious data-quality issues
+
+## Next Step
+
+Complete detailed profiling before beginning extensive analysis.
