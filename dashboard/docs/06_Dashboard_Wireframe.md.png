@@ -1,0 +1,37 @@
+# Dashboard Wireframe
+
+## Proposed FinTrust Business Intelligence Dashboard
+
+The proposed dashboard is designed to communicate customer behaviour, transaction performance, transaction channels, transaction status and risk-related patterns.
+
+### KPI Cards
+
+- Total Customers
+- Total Transactions
+- Total Transaction Value
+- Average Transaction Value
+- Successful Transaction Rate
+- Risk Review Rate
+
+### Filters / Slicers
+
+- Date Range
+- Customer Type
+- Account Type
+- Transaction Channel
+- Transaction Status
+- Location
+
+### Dashboard Visual Sections
+
+- Transaction Volume & Value Trend
+- Transactions by Channel
+- Key Insights
+- Customers by Age Group
+- Transaction Status
+- Top Locations by Transaction Volume
+- Customer Segment Performance
+- Risk Review – Key Patterns
+- Overall Performance
+
+The wireframe is a layout proposal only. No actual KPI figures or analytical conclusions are presented at this stage. Actual values will be populated after data profiling and analysis.
